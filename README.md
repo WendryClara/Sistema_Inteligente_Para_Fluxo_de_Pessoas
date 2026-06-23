@@ -1,5 +1,11 @@
 # Sistema_Inteligente_Para_Fluxo_de_Pessoas
 
+Visão Geral
+
+O projeto teve como objetivo desenvolver um sistema capaz de monitorar e contabilizar automaticamente a entrada e saída de pessoas em um ambiente. A proposta surgiu da necessidade de controlar a ocupação de salas e outros espaços de forma automatizada, utilizando componentes eletrônicos de baixo custo.
+Inicialmente foi definido que o sistema utilizaria sensores para detectar a passagem das pessoas e um Arduino Uno para processar as informações coletadas.
+
+
 Código 
 
 #define TRIG_ENTRADA 8
